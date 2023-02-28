@@ -18,10 +18,8 @@ I'm beginer developer, but I love It from first view.
 
 ### Contacts
 
-![linkedin](https://img.shields.io/badge/linkedin-75786f?style=flat&logo=linkedin)
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin)
 
-[![AllaGrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaGrey)](https://github.com/AllaGrey/github-readme-stats)
+[![AllaGrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaGrey&show_icons=true)](https://github.com/AllaGrey/github-readme-stats)
 
-![AllaGrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaGrey&show_icons=true&theme=dark#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaGrey&theme=dark#gh-dark-mode-only)](https://github.com/AllaGrey/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllaGrey&layout=compact)](https://github.com/AllaGrey/github-readme-stats)
