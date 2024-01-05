@@ -18,7 +18,7 @@ I'm beginer developer, but I love It from first view.
 
 ### Contacts
 
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/allagrey/)
 
 [![AllaGrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllaGrey&show_icons=true)](https://github.com/AllaGrey/github-readme-stats)
 
